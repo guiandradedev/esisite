@@ -10,11 +10,12 @@ banner:
     link: "#"
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Nossos serviços
   feature_item:
-  - name: Clean Code
+  - name: Consultoria
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Levantamento de melhorias e oportunidades de redução de custos e tempo
+      de processo
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
