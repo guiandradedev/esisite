@@ -35,7 +35,7 @@ sections:
   label: Pricing
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
-  label: Valores
+  label: Sobre nós
 - type: document
   path: exampleSite/content/terms-conditions/_index.md
   label: Terms & Conditions
