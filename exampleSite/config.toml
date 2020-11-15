@@ -14,18 +14,18 @@ URL = "#"
 name = "Sobre nós"
 [[menu.footer_middle]]
 URL = "pricing"
-name = "Pricing"
+name = "Projetos"
 [[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
-URL = "privacy-policy"
-name = "Sobre nós"
-weight = 3
-[[menu.main]]
 URL = ""
 name = "Projetos"
 weight = ""
+[[menu.main]]
+URL = "privacy-policy"
+name = "Sobre nós"
+weight = 3
 [params]
 author = "Guilherme Andrade"
 contact_form_action = "#"
