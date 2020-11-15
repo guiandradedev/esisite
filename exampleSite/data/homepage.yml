@@ -29,9 +29,9 @@ feature:
   - name: Segurança NR12
     icon: ti-headphone-alt
     content: Adequação de máquinas e equipamentos conforme a norma NR-12
-  - name: Cloud Support
+  - name: Instalações elétricas
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Painéis e instalações elétricas para máquinas e equipamentos industriais
 service:
   enable: true
   service_item:
