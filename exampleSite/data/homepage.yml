@@ -58,14 +58,15 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: O que os concorrentes não tem
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      Para solucionar problemas com excelência e rapidez, buscamos profissionais capacitados para trabalhar com a gente. Queremos o melhor ensino para nossos filhos, os melhores médicos para nossa família. Por isso desenvolvemos uma equipe diversificada, qualificada e única: para atender as necessidades dos nossos clientes da mesma maneira.
+
+      Somos a única empresa da região com 3 engenharias distintas em um só lugar. Nossos colaboradores são altamente capacitados nas mais diversas áreas de produção, do projeto CAD à fabricação.
+
+      Tudo inteiramente à disposição dos nossos clientes, de domingo à domingo.
     button:
       enable: true
       label: Check it out
