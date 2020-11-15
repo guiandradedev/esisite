@@ -47,14 +47,13 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Empresa feita de gente
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      As pessoas do nosso time são o fator determinante para a entrega de produtos e serviços de qualidade.
+
+      O valor do nosso empreendimento não está em máquinario, estrutura ou equipamentos de ponta; está na equipe altamente capacitada e multidisciplinar que montamos, composta de gente responsável, comprometida, inteligente e com brilho nos olhos.
     button:
       enable: true
       label: Check it out
