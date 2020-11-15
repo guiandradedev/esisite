@@ -36,7 +36,7 @@ footer_menu_left = "Institucional"
 footer_menu_middle = "Projetos"
 footer_menu_right = "Perguntas frequentes"
 logo = "images/logo.png"
-logo_width = "60px"
+logo_width = "150px"
 [params.navigation_button]
 enable = true
 label = "Contato"
