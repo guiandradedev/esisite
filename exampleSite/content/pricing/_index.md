@@ -1,5 +1,5 @@
 ---
-title: Projetos
+title: Preços
 subtitle: ''
 description: This is meta description
 basic:
