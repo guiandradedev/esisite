@@ -16,9 +16,9 @@ feature:
     icon: ti-pulse
     content: Levantamento de melhorias e oportunidades de redução de custos e tempo
       de processo
-  - name: Object Oriented
+  - name: Máquinas e gabaritos
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Desenvolvimento e adequação de máquinas, gabaritos e equipamentos
   - name: 24h Service
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
