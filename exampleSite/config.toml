@@ -48,7 +48,7 @@ footer_menu_left = "Institucional"
 footer_menu_middle = "Serviços"
 footer_menu_right = "Localização"
 logo = "images/logo.png"
-logo_width = "50px"
+logo_width = "60px"
 [params.navigation_button]
 enable = true
 label = "Contato"
