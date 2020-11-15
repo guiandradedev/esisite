@@ -12,12 +12,6 @@ unsafe = true
 [[menu.footer_left]]
 URL = "#"
 name = "Sobre nós"
-[[menu.footer_left]]
-URL = "#"
-name = "Quick Start"
-[[menu.footer_left]]
-URL = "pricing"
-name = "Pricing"
 [[menu.footer_middle]]
 URL = "pricing"
 name = "Pricing"
