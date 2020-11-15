@@ -29,7 +29,7 @@ sections:
   label: FAQ
 - type: document
   path: exampleSite/content/contact/_index.md
-  label: Contact
+  label: Contato
 - type: document
   path: exampleSite/content/pricing/_index.md
   label: Pricing
