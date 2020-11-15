@@ -23,9 +23,9 @@ feature:
     icon: ti-alarm-clock
     content: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
       de peças sobressalentes
-  - name: Value For Money
+  - name: Modelagem CAD
     icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
