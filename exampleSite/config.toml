@@ -11,7 +11,7 @@ title = "ESI Soluções Industriais"
 unsafe = true
 [[menu.footer_left]]
 URL = "#"
-name = "About Us"
+name = "Sobre nós"
 [[menu.footer_left]]
 URL = "#"
 name = "Quick Start"
