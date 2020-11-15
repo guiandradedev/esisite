@@ -26,9 +26,9 @@ feature:
   - name: Modelagem CAD
     icon: ti-credit-card
     content: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
-  - name: Faster Response
+  - name: Segurança NR12
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Adequação de máquinas e equipamentos conforme a norma NR-12
   - name: Cloud Support
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
