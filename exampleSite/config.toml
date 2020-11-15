@@ -31,8 +31,8 @@ name = "Terms & Conditions"
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
-URL = "Valores"
-name = "Valores"
+URL = "#"
+name = "Sobre nós"
 weight = 3
 [params]
 author = "Themefisher"
