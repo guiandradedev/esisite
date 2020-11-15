@@ -39,7 +39,7 @@ URL = "privacy-policy"
 name = "Sobre nós"
 weight = 3
 [params]
-author = "Themefisher"
+author = "Guilherme Andrade"
 contact_form_action = "#"
 copyright = "Develop by [Guilherme Andrade](https://gethugothemes.com/)"
 description = "This is meta description"
@@ -48,7 +48,7 @@ footer_menu_left = "Institucional"
 footer_menu_middle = "Serviços"
 footer_menu_right = "Suporte"
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "50px"
 [params.navigation_button]
 enable = true
 label = "Contato"
