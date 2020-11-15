@@ -18,7 +18,7 @@ name = "Sobre nós"
 URL = "pricing"
 name = "Projetos"
 [[menu.main]]
-URL = "pricing"
+URL = "terms-conditions"
 name = "Projetos"
 weight = ""
 [[menu.main]]
