@@ -35,16 +35,14 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: O core da nossa empresa
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      Nossa especialidade é a fabricação e adequação de
+      máquinas, equipamentos, peças e acessórios. Oferecemos soluções completas, começando pela consultoria para levantamento de melhorias, passando pelo desenho/projeto de equipamentos e máquinas, construção, testes e instalação dessas máquinas.
     button:
       enable: true
       label: Check it out
