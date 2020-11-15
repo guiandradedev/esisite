@@ -19,9 +19,10 @@ feature:
   - name: Máquinas e gabaritos
     icon: ti-package
     content: Desenvolvimento e adequação de máquinas, gabaritos e equipamentos
-  - name: 24h Service
+  - name: Usinagem e solda
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
+      de peças sobressalentes
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
