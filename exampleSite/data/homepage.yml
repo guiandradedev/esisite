@@ -30,7 +30,7 @@ feature:
     icon: ''
     content: Adequação de máquinas e equipamentos conforme a norma NR-12
   - name: Instalações elétricas
-    icon: ti-cloud-up
+    icon: ''
     content: Painéis e instalações elétricas para máquinas e equipamentos industriais
 service:
   enable: true
