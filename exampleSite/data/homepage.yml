@@ -58,7 +58,7 @@ service:
 
       O valor do nosso empreendimento não está em máquinario, estrutura ou equipamentos de ponta; está na equipe altamente capacitada e multidisciplinar que montamos, composta de gente responsável, comprometida, inteligente e com brilho nos olhos.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: O que os concorrentes não tem
