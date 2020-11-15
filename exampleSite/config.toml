@@ -57,6 +57,10 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
+icon = ""
+link = ""
+title = "Instagram"
+[[params.social]]
 icon = "ti-facebook"
 link = "#"
 title = "facebook"
