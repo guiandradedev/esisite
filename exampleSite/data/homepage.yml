@@ -90,8 +90,8 @@ screenshot:
   title: Os melhores profissionais <br> trabalhando por você!
   image: images/screenshot.svg
 call_to_action:
-  enable: true
-  title: Ready to get started?
+  enable: false
+  title: ''
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
