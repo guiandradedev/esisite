@@ -38,7 +38,7 @@ sections:
   label: Sobre nós
 - type: document
   path: exampleSite/content/terms-conditions/_index.md
-  label: Terms & Conditions
+  label: Projetos
 - type: heading
   label: All Pages
 - type: directory
