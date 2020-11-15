@@ -5,7 +5,7 @@ banner:
   content: Equipe de engenheiros e técnicos à sua disposição, de domingo à domingo,<br>
     para garantir que sua produção nunca pare.Nunca.
   button:
-    enable: true
+    enable: false
     label: Contato
     link: "#"
 feature:
