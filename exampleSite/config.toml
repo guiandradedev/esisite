@@ -19,7 +19,7 @@ name = "Projetos"
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
-URL = ""
+URL = "pricing"
 name = "Projetos"
 weight = ""
 [[menu.main]]
