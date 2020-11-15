@@ -50,7 +50,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: Empresa feita de gente
+  - title: O core da nossa empresa
     images:
     - images/service-1.png
     content: |-
