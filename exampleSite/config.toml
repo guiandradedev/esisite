@@ -31,6 +31,10 @@ name = "Terms & Conditions"
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
+URL = ""
+name = "Início"
+weight = ""
+[[menu.main]]
 URL = "privacy-policy"
 name = "Sobre nós"
 weight = 3
