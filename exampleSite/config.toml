@@ -10,13 +10,11 @@ title = "ESI Soluções Industriais"
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
+footer_middle = []
 footer_right = []
 [[menu.footer_left]]
 URL = "#"
 name = "Sobre nós"
-[[menu.footer_middle]]
-URL = "pricing"
-name = "Projetos"
 [[menu.main]]
 URL = "terms-conditions"
 name = "Projetos"
