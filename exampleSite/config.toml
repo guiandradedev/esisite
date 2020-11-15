@@ -10,9 +10,11 @@ title = "ESI Soluções Industriais"
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
-footer_left = []
 footer_middle = []
 footer_right = []
+[[menu.footer_left]]
+URL = ""
+name = "Github"
 [[menu.main]]
 URL = "terms-conditions"
 name = "Projetos"
