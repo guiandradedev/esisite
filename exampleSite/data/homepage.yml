@@ -13,7 +13,7 @@ feature:
   title: Serviços
   feature_item:
   - name: Consultoria
-    icon: ti-pulse
+    icon: ''
     content: Levantamento de melhorias e oportunidades de redução de custos e tempo
       de processo
   - name: Máquinas e gabaritos
