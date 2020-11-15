@@ -38,7 +38,7 @@ URL = "faq"
 name = "FAQ"
 [[menu.main]]
 URL = "contact"
-name = "Contato"
+name = "Nossos Valores"
 weight = 3
 [params]
 author = "Themefisher"
