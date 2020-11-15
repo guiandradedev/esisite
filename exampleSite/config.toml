@@ -24,7 +24,7 @@ name = "Sobre nós"
 weight = 3
 [[menu.main]]
 URL = ""
-name = "Projetos"
+name = "Equipe"
 weight = ""
 [params]
 author = "Guilherme Andrade"
