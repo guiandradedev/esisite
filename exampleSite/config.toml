@@ -46,7 +46,7 @@ description = "This is meta description"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Institucional"
 footer_menu_middle = "Serviços"
-footer_menu_right = "Suporte"
+footer_menu_right = "Localização"
 logo = "images/logo.png"
 logo_width = "50px"
 [params.navigation_button]
