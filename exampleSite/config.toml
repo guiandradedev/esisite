@@ -31,7 +31,7 @@ name = "Terms & Conditions"
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
-URL = "#"
+URL = "privacy-policy"
 name = "Sobre nós"
 weight = 3
 [params]
