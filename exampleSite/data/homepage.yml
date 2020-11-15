@@ -47,7 +47,7 @@ service:
       link: "#"
   - title: Empresa feita de gente
     images:
-    - images/service-1
+    - images/esi_funcionarios_1.png
     content: |-
       As pessoas do nosso time são o fator determinante para a entrega de produtos e serviços de qualidade.
 
