@@ -1,5 +1,5 @@
 ---
-title: Valores
+title: Sobre nós
 subtitle: ''
 description: This is meta description
 
