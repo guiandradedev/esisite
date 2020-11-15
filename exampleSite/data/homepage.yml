@@ -2,8 +2,8 @@
 banner:
   title: Qualidade e atendimento <br> personalizado são a nossa marca
   image: images/banner-art.svg
-  content: Equipe de engenheiros e técnicos à sua disposição, de domingo à domingo,
-    para garantir que sua produção nunca pare. <br>Nunca.
+  content: Equipe de engenheiros e técnicos à sua disposição, de domingo à domingo,<br>
+    para garantir que sua produção nunca pare.Nunca.
   button:
     enable: true
     label: Contato
