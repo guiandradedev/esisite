@@ -10,7 +10,7 @@ banner:
     link: "#"
 feature:
   enable: true
-  title: O que oferecemos
+  title: Serviços
   feature_item:
   - name: Consultoria
     icon: ti-pulse
