@@ -87,7 +87,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Os melhores profissionais <br> trabalhando por você!
   image: images/screenshot.svg
 call_to_action:
   enable: true
