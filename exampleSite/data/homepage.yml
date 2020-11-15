@@ -17,10 +17,10 @@ feature:
     content: Levantamento de melhorias e oportunidades de redução de custos e tempo
       de processo
   - name: Máquinas e gabaritos
-    icon: ti-package
+    icon: ''
     content: Desenvolvimento e adequação de máquinas, gabaritos e equipamentos
   - name: Usinagem e solda
-    icon: ti-alarm-clock
+    icon: ''
     content: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
       de peças sobressalentes
   - name: Modelagem CAD
