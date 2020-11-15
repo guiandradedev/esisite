@@ -24,7 +24,7 @@ feature:
     content: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
       de peças sobressalentes
   - name: Modelagem CAD
-    icon: ti-credit-card
+    icon: ''
     content: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
   - name: Segurança NR12
     icon: ''
