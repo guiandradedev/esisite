@@ -35,7 +35,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: O core da nossa empresa
+  - title: Empresa feita de gente
     images:
     - images/esi_funcionarios_6
     - images/esi_funcionarios_5
