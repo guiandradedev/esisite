@@ -27,7 +27,7 @@ feature:
     icon: ti-credit-card
     content: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
   - name: Segurança NR12
-    icon: helmet
+    icon: ''
     content: Adequação de máquinas e equipamentos conforme a norma NR-12
   - name: Instalações elétricas
     icon: ti-cloud-up
