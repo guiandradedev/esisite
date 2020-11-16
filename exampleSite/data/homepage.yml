@@ -46,7 +46,7 @@ service:
       link: "#"
   - title: O que os concorrentes não tem
     images:
-    - images/group.png
+    - images/service-3.png
     content: |-
       Para solucionar problemas com excelência e rapidez, buscamos profissionais capacitados para trabalhar com a gente. Queremos o melhor ensino para nossos filhos, os melhores médicos para nossa família. Por isso desenvolvemos uma equipe diversificada, qualificada e única: para atender as necessidades dos nossos clientes da mesma maneira.
 
