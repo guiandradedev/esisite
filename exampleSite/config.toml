@@ -9,18 +9,23 @@ theme = "bigspring"
 title = "ESI Soluções Industriais"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.footer_left]]
-URL = ""
-name = "Github"
-weight = 1
+[menu]
+footer_middle = ["Charrua Parts"]
+footer_right = []
 [[menu.footer_left]]
 URL = ""
 name = "Sobre nós"
-weight = 2
+[[menu.footer_left]]
+URL = ""
+name = "Github"
+[[menu.main]]
+URL = "privacy-policy"
+name = "Sobre nós"
+weight = 3
 [[menu.main]]
 URL = "terms-conditions"
 name = "Projetos"
-weight = 1
+weight = ""
 [params]
 author = "Guilherme Andrade"
 contact_form_action = "#"
