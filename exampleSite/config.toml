@@ -66,9 +66,5 @@ link = "#"
 title = "twitter"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/esisolucoesindustriais"
 title = "linkedin"
-[[params.social]]
-icon = ""
-link = ""
-title = "Instagram"
