@@ -1,6 +1,6 @@
 ---
 title: Projetos
-subtitle: ''
+subtitle: Alguns exemplos de projetos de sucesso
 description: This is meta description
 
 ---
