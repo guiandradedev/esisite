@@ -1,6 +1,6 @@
 baseURL = "http://examplesite.org/"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-175470417-1"
 languageCode = "en-us"
 languageName = "En"
 paginate = "3"
