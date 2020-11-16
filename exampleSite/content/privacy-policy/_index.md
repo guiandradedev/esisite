@@ -20,18 +20,18 @@ Queremos, com clientes, colaboradores e fornecedores, construir um ecossistema d
 
 Por isso tudo, nossos valores são buscados, compartilhados e cultivados em tudo que fazemos.
 
-#### Paixão
+##### Paixão
 
 É o motor do aprendizado contínuo e da excelência; nos dá propósito, significância e satisfação.
 
-#### Antifragilidade
+##### Antifragilidade
 
 Prosperar e crescer quando exposto à volatilidade, desordem, risco e estresse. Ser resiliente não é o suficiente.
 
-#### Responsabilidade
+##### Responsabilidade
 
 Temos o dever de arcar com as consequências das nossas ações e comportamentos.
 
-#### Trabalho em equipe
+##### Trabalho em equipe
 
 Colaborar e comunicar de forma eficiente são as melhores ferramentas para resolver qualquer problema.
