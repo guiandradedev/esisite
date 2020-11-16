@@ -2,6 +2,11 @@
 title: Sobre nós
 subtitle: ''
 description: This is meta description
+menu:
+  main:
+    URL: privacy-policy
+    name: Sobre
+    weight: 2
 
 ---
 Não somos uma iniciativa unicamente em busca de lucro. Somos mais que isso. Somos paixão, curiosidade, noites em claro, epifanias madrugais e alegria! Somos o arrepio ao ver nossas ideias mudando negócios, somos a força onipotente, incansável e esmagadora da determinação e persistência. Somos a ESI Soluções Industriais.
