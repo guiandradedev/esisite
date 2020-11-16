@@ -54,7 +54,7 @@ service:
 
       Tudo inteiramente à disposição dos nossos clientes, de domingo à domingo.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Empresa feita de gente preocupada
