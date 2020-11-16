@@ -21,8 +21,7 @@ feature:
     content: Desenvolvimento e adequação de máquinas, gabaritos e equipamentos
   - name: Usinagem e solda
     icon: ''
-    content: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
-      de peças sobressalentes
+    content: Fabricação de componentes de precisão e peças sobressalentes
   - name: Modelagem CAD
     icon: ''
     content: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
