@@ -59,7 +59,8 @@ service:
       link: "#"
   - title: Empresa feita de gente preocupada
     images:
-    - images/esi_funcionarios_6.png
+    - ''
+    - images/esi_funcionarios_4.png
     - images/esi_funcionarios_2.png
     - images/esi_funcionarios_3.png
     - images/esi_funcionarios_1.png
